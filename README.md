@@ -46,5 +46,5 @@ To get the most out of this workshop:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-org/sui-workshop.git
+   git clone https://github.com/oursuiteam/sui-workshop.git
    cd sui-workshop
