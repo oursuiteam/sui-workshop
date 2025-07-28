@@ -56,7 +56,7 @@ it, you can enter the `move` directory, and publish it with the Sui CLI:
 
 ```bash
 cd move
-sui client publish --gas-budget 100000000 nftmint
+sui client publish --gas-budget 100000000 pool
 ```
 
 In the output there will be an object with a `"packageId"` property. You'll want
